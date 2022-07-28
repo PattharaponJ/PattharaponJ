@@ -1,7 +1,7 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: Pattharapon Joysujai
+- ⚡ Student id: 63364666
 - 🔭 I'm currently studying on Faculty of Engineering.
 - 👨🏼‍💻 i am interested in frontend developer.
 - 💪 i am good at english and database.
@@ -15,13 +15,9 @@
 
 ### Languages 
 <p align="left">
-<a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='50'/> 
 
-<a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='50'/>  
   
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='50'/>
 
